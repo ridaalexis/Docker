@@ -1,4 +1,4 @@
-![partition disks](https://user-images.githubusercontent.com/44519124/57969175-d7816d80-797c-11e9-98f6-7724d04c860d.png)
+![partition disks](https://user-images.githubusercontent.com/44519124/57970040-0c91be00-7985-11e9-9a1a-fb84dac638b7.png)
 
 ---
 
